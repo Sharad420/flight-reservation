@@ -1,7 +1,7 @@
 package com.flightreservation.flightreservation.domains;
 
-import javax.persistence.Entity;
-import javax.persistence.OneToOne;
+import jakarta.persistence.Entity;
+import jakarta.persistence.OneToOne;
 
 @Entity
 public class Reservation extends AbstractEntity{

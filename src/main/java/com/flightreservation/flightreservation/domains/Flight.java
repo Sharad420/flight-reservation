@@ -1,6 +1,6 @@
 package com.flightreservation.flightreservation.domains;
 
-import javax.persistence.Entity;
+import jakarta.persistence.Entity;
 
 import java.sql.Timestamp;
 import java.util.Date;

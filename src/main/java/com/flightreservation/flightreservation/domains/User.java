@@ -1,6 +1,6 @@
 package com.flightreservation.flightreservation.domains;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 import java.util.Set;
 
 @Entity
