@@ -28,7 +28,7 @@ with reservations.
 
 #### Microservice for checking in passengers
 
-https://github.com/deepanshululla/flight-checkin
+https://github.com/Sharad420/flight-checkin
 
 
 #### Database Model
